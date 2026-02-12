@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 12 Feb 2026 11:44:43 +0000
+Description: v2 - A local-first rich text editor
+Label: v2 Editor
+Origin: Oktana Coop
+Suite: stable
+MD5Sum:
+ 906078c26643a94e0aa5c004e43df484              199 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
+ 9a0602db9902c8287073e9a444e12073               29 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm64/Packages
+ 9a0602db9902c8287073e9a444e12073               29 main/binary-arm64/Packages.gz
+SHA1:
+ baa0eb28b15704200351232f15eb04851b20ee87              199 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
+ 84cf34c19213a77f876d5e6888ebc209b3ecd7b2               29 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-arm64/Packages
+ 84cf34c19213a77f876d5e6888ebc209b3ecd7b2               29 main/binary-arm64/Packages.gz
+SHA256:
+ 03ff61feaf284ca6cab6b6f84345c698b96c8507c6f3e2182d5ed5a0dea1b5f9              199 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
+ 11943ab1872dde88146f9409c7bf5c93196ee2f8a4ad58f3a6c42e15b1ddfdeb               29 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm64/Packages
+ 11943ab1872dde88146f9409c7bf5c93196ee2f8a4ad58f3a6c42e15b1ddfdeb               29 main/binary-arm64/Packages.gz
+SHA512:
+ 21506458c88ae060ece6841c45ba4fd1af3a859d292629b1071024921260cf247ed31dd1d23f5e753345be4be0f006161001aa5f2752b98dcc7ec76759825e3d              199 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
+ 6265cfc1003731b4e6044c0e7b1b7c6dcf0859a17f75e2da63282a43824f71022bdc321d7b8d6a5ad64c335e243abe677782c97a17c21b13ea5dd50e58fd1edc               29 main/binary-amd64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-arm64/Packages
+ 6265cfc1003731b4e6044c0e7b1b7c6dcf0859a17f75e2da63282a43824f71022bdc321d7b8d6a5ad64c335e243abe677782c97a17c21b13ea5dd50e58fd1edc               29 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJoxOcvspQdKFM7uPEP0BntTiyR8FAmmNvSsACgkQEP0BntTi
+yR/hiw//QcSkmoLiMVmNJGbeRHtIPwe+h4rEbVt6sK0EOVajW6xriW5k4PXxRx5K
+SZiN0p8kLY1+qmMYTypmKZWg+4VlBz2FAyfPQQzfiNMif/UCf6p/8OwvZEleuzLF
+mxXEZgoHP2ufvXNYhSrDYPK2LeOpNtKT211yZnhQN+2XlZUbAFfuzTmHwZC1pqUA
+Eq89h/9K3AoWb3nBYJDTK1KrZAliHsvOrYr4OIBJVkfKgYOtc6yvrseP2Q10SqJO
+DkuJB0FmMeMSXbZP97Q7rXkSeivHIM3LbHS+LCIgGUjaSd6znlmMgyGFK8mg9RB3
+dr898uW32HdDnI+Qcqtp3zTgi6/YsesUes8QG+uf2/7UD2dgycgfaL6RDO0VuC1+
+9NEYfrIm1k3nhBfD0o6ljfFRWcDcJ5rTGL8lBPmGUWwyrQWCmzXuawr4qmC+LRUn
+wC24P9MPgwD2D6ys+d5Na7HXyVGg4BRtknhre22u0YMOJIhM5HHpF0GjDdwlYiiP
+ESSIDLGHwCUpJc8LZ0GFE6BQRQBcRknkHk67XbxQZZl0PVJ5K7I6zZ0crBAm8RA3
+IX+AOcSFB1WYvs8HLNuE2NpY7R7Yg/6+lcJEKMHO66HLaWj8jWO/w55wg4wNiJZt
+LE2V/5P7QqNKAblTCV9on03dQpnJx7w9UyswR7/+AQ1tfyv88Eg=
+=bWsa
+-----END PGP SIGNATURE-----
