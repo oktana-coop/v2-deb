@@ -1,20 +1,20 @@
 Package: v2
-Version: 0.11.11
+Version: 0.11.12
 Architecture: arm64
 Maintainer: Oktana Coop <team@oktana.dev>
-Installed-Size: 595936
+Installed-Size: 595942
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: pool/main/v/v2/v2-0.11.11-arm64.deb
-Size: 97384426
-MD5sum: 7f637a0df3ba5366ecbd0dcc3818c547
-SHA1: 5c3445f0abb7a89c85372119be1cdc9cc04f6f2f
-SHA256: 652c3058a7a87345898d79267b283d9f7f663942e81e4781d848c8bd6da0ac3c
+Filename: pool/main/v/v2/v2-0.11.12-arm64.deb
+Size: 98639380
+MD5sum: 28c5bf111d00ccf720dce2aea13398be
+SHA1: 633c965e81c4c01dd51eabac060bfc84ece1f525
+SHA256: 3b3a09b41a0f0f53d61d802cfab480d4a7eeda7c660ff7f5a04979e81f20c822
 Section: default
 Priority: optional
 Homepage: https://github.com/oktana-coop/v2
 Description:
   A local-first rich text editor with Git-style version control, true privacy, and complete control over your data.
-License: unknown
+License: AGPL-3.0-or-later
 Vendor: Oktana Coop <team@oktana.dev>
 
