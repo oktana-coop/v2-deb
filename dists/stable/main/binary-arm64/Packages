@@ -1,15 +1,15 @@
 Package: v2
-Version: 0.13.2
+Version: 0.14.0
 Architecture: arm64
 Maintainer: Oktana Coop <team@oktana.dev>
-Installed-Size: 598881
+Installed-Size: 599047
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: pool/main/v/v2/v2-0.13.2-arm64.deb
-Size: 99802548
-MD5sum: 728cd902154e8cb7720050087550431e
-SHA1: 5a22863f1be6377a60654beb471012e851891640
-SHA256: 4bdcfe8eb9ef6b3e83e5aa5bba789ca273b2fde7f82b863c084d6e42198fa03f
+Filename: pool/main/v/v2/v2-0.14.0-arm64.deb
+Size: 98566462
+MD5sum: d3c21d6e7649e79a7611504af7e2b0fd
+SHA1: a9ce18e659e562765297966bd59b61fd153edbeb
+SHA256: 738b6d365ba5b49cfdacbc85c7b50d2df2b4007af3c0abb220a94533bf588a5a
 Section: default
 Priority: optional
 Homepage: https://github.com/oktana-coop/v2
